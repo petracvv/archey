@@ -313,9 +313,6 @@ result.extend(['']*(20 - len(display)))
 
 # Result.
 if DetectDistro == 'Ubuntu':
- print len(result)
- print 
- print result
  print """
 %s                          .oyhhs:   %s
 %s                 ..--.., %sshhhhhh-   %s
